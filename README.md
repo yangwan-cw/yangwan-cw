@@ -2,10 +2,12 @@
  * @Author       : sutton
  * @Date         : 2024-05-01 23:09:01
  * @LastEditors  : Please set LastEditors
- * @LastEditTime : 2024-05-02 00:10:26
+ * @LastEditTime : 2024-05-02 00:12:52
  * @Description  : 请填写简介
 -->
 ### 描述 ✏️
+
+生活中保持乐观，工作中保持认真，人生持有规划，爱情带有真诚
 
 ### 我的 👨‍🚀
 - <a href="www.baidu.com">ioomex-vue3: 基于 vue3+ts+pinia 的模板系统</a>
