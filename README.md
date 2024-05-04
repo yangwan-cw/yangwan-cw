@@ -10,7 +10,8 @@
 生活中保持乐观，工作中保持认真，人生持有规划，爱情带有真诚
 
 ### 我的 👨‍🚀
-- <a href="www.baidu.com">ioomex-vue3: 基于 vue3+ts+pinia 的模板系统</a>
+- <a href="https://github.com/yangwan-cw/ioomex-vue3">ioomex-vue3: 基于 vue3+ts+pinia 的模板系统</a>
+- <a href="https://github.com/yangwan-cw/ioomex-jobs">ioomex-jobs: 基于 基于 vue3+ts+pinia 的招聘软件</a>
 ### 技术栈 📦
 前端
 <div style="display:flex;gap:20px">
