@@ -44,6 +44,17 @@
     <br >
 </div>
 
+### 开发的项目
+- 业务项目
+  -  <a href="https://github.com/yangwan-cw/ioomex-jobs">ioomex-jobs: 基于 基于 vue3+ts+pinia 的招聘软件</a>
+- 组件项目
+- 轮子项目
+  - <a href="https://github.com/yangwan-cw/ioomex-vue3">ioomex-vue3: 基于 vue3+ts+pinia 的模板系统</a>
+
+<div>
+    <br >
+</div>
+
 ### 今年汇总(This year's summary)
 ---
 <div style="display: flex;border:none">
@@ -51,14 +62,5 @@
    <img   align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangwan-cw&locale=cn&line_height=33&theme=dark&langs_count=10&layout=compact" height="200px"/>
 </div>
 
-<div>
-    <br >
-</div>
 
 
-### 开发的项目
-- 业务项目
-  -  <a href="https://github.com/yangwan-cw/ioomex-jobs">ioomex-jobs: 基于 基于 vue3+ts+pinia 的招聘软件</a>
-- 组件项目
-- 轮子项目
-  - <a href="https://github.com/yangwan-cw/ioomex-vue3">ioomex-vue3: 基于 vue3+ts+pinia 的模板系统</a>
