@@ -46,11 +46,8 @@
 
 ### 开发的项目(project)
 - 业务项目
-  -  <a href="https://github.com/yangwan-cw/ioomex-jobs">ioomex-jobs: 基于 基于 vue3+ts+pinia 的招聘软件</a>
 - 组件项目
 - 轮子项目
-  - <a href="https://github.com/yangwan-cw/ioomex-vue3">ioomex-vue3: 基于 vue3+ts+pinia 的模板系统</a>
-
 <div>
     <br >
 </div>
