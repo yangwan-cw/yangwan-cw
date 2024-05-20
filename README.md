@@ -1,11 +1,11 @@
-### 我是烊婉
+### 我是<p style="display:inline;color:#FAB2BD;">烊婉</p>
 ---
-- 💕 I am a Java developer and I am very happy to join this industry.👨‍🚀
+- 💕 自我介绍: I am a Java developer and I am very happy to join this industry.👨‍🚀
 - 📦 作品:
 - 🧾 博客:
 
 
-### 描述 ✏️
+### 描述(description)
 生活中保持乐观，工作中保持认真，人生持有规划，爱情带有真诚.
 
 
@@ -44,7 +44,7 @@
     <br >
 </div>
 
-### 开发的项目
+### 开发的项目(project)
 - 业务项目
   -  <a href="https://github.com/yangwan-cw/ioomex-jobs">ioomex-jobs: 基于 基于 vue3+ts+pinia 的招聘软件</a>
 - 组件项目
