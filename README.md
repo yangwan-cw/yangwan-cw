@@ -1,4 +1,4 @@
-### 我是<p style="display:inline;color:#FAB2BD;">烊婉</p>
+### 我是烊婉
 ---
 - 💕 自我介绍: I am a Java developer and I am very happy to join this industry.👨‍🚀
 - 📦 作品:
