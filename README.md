@@ -2,7 +2,7 @@
 ---
 - 💕 自我介绍: I am a Java developer and I am very happy to join this industry.👨‍🚀
 - 📦 作品:
-- 🧾 博客: 
+- 🧾 博客:
 
 
 ### 描述(description)
@@ -19,6 +19,7 @@
                 <img  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
                    <img  src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
                 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+    <img src="https://img.shields.io/badge/Uni-App-0087DC?style=for-the-badge&logo=apachecordova&logoColor=white">
 
 </div>
 
@@ -38,6 +39,12 @@
    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white">
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
+<img src="https://img.shields.io/badge/Apifox-FF7A59?style=for-the-badge&logo=apifox&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Apache%20Shiro-000000?style=for-the-badge&logo=apache-shiro&logoColor=white">
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+
 </div>
 
 <div>
