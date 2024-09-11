@@ -49,10 +49,9 @@
 
 ### 开发的项目(project)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - 业务项目
-  - <a href="https://github.com/yangwan-cw/youleoffice">youlezuo</a>
-  - <a href="https://github.com/yangwan-cw/olecode">olecode</a>
 - 组件项目
 - 轮子项目
+- 工具项目
 
 
 <div>
