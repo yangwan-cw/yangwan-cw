@@ -1,6 +1,6 @@
 ### Hi, I'm yangwan-cw <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 ---
-- 💕 自我介绍: 我是一个 Java 开发者，我非常开心能够加入到这个巨大的团体.👨‍🚀
+- 💕 自我介绍: 我是一个 Java 开发者，非常开心能够融入到这个巨大的团体.👨‍🚀
 ### 描述(description)
 生活中保持乐观，工作中保持认真，人生持有规划，爱情带有真诚.
 
