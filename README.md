@@ -12,65 +12,200 @@
 
 ### 我的技术栈(my skills)
 #### 前端
-| 描述                     | 技术 |
-|--------------------------|------|
-| 用于构建网页的标记语言。 | ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) |
-| 用于样式设计的样式表语言。 | ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) |
-| 用于网页交互的编程语言。 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| 用于构建后端服务的JavaScript运行环境。 | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) |
-| JavaScript的超集，增加了类型系统。 | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
-| 渐进式JavaScript框架，用于构建用户界面。 | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) |
-| 下一代前端工具，提供快速的开发体验。 | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) |
-| 跨平台应用开发框架。     | ![Uni-App](https://img.shields.io/badge/Uni-App-0087DC?style=for-the-badge&logo=apachecordova&logoColor=white) |
+<table style="width: 100%;">
+    <tr>
+        <th>描述</th>
+        <th>技术</th>
+    </tr>
+    <tr>
+        <td>用于构建网页的标记语言。</td>
+        <td><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /></td>
+    </tr>
+    <tr>
+        <td>用于样式设计的样式表语言。</td>
+        <td><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /></td>
+    </tr>
+    <tr>
+        <td>用于网页交互的编程语言。</td>
+        <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></td>
+    </tr>
+    <tr>
+        <td>用于构建后端服务的JavaScript运行环境。</td>
+        <td><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></td>
+    </tr>
+    <tr>
+        <td>JavaScript的超集，增加了类型系统。</td>
+        <td><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></td>
+    </tr>
+    <tr>
+        <td>渐进式JavaScript框架，用于构建用户界面。</td>
+        <td><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" /></td>
+    </tr>
+    <tr>
+        <td>下一代前端工具，提供快速的开发体验。</td>
+        <td><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /></td>
+    </tr>
+    <tr>
+        <td>跨平台应用开发框架。</td>
+        <td><img src="https://img.shields.io/badge/Uni-App-0087DC?style=for-the-badge&logo=apachecordova&logoColor=white" /></td>
+    </tr>
+</table>
 
 #### 后端
-
-
-| 描述                     | 技术 |
-|--------------------------|------|
-| 用于后端开发的编程语言。 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |
-| 关系型数据库管理系统。   | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) |
-| Java的企业级应用框架。   | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) |
-| 内存数据结构存储，用于缓存。 | ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white) |
-| 消息队列中间件。         | ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white) |
-| 阿里云服务平台。         | ![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white) |
-| 容器化平台。             | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| 高性能的HTTP和反向代理服务器。 | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) |
-| 项目管理和构建工具。     | ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white) |
-| Java开发的集成开发环境。 | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) |
-| API管理工具。            | ![Apifox](https://img.shields.io/badge/Apifox-FF7A59?style=for-the-badge&logo=apifox&logoColor=white) |
-| 版本控制系统。           | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| 安全框架。               | ![Apache Shiro](https://img.shields.io/badge/Apache%20Shiro-000000?style=for-the-badge&logo=apache-shiro&logoColor=white) |
-| JSON Web Token，用于身份验证。 | ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) |
-| 持续集成和持续交付工具。 | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) |
+<table style="width: 100%;">
+    <tr>
+        <th>描述</th>
+        <th>技术</th>
+    </tr>
+    <tr>
+        <td>用于后端开发的编程语言。</td>
+        <td><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></td>
+    </tr>
+    <tr>
+        <td>关系型数据库管理系统。</td>
+        <td><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></td>
+    </tr>
+    <tr>
+        <td>Java的企业级应用框架。</td>
+        <td><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /></td>
+    </tr>
+    <tr>
+        <td>内存数据结构存储，用于缓存。</td>
+        <td><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" /></td>
+    </tr>
+    <tr>
+        <td>消息队列中间件。</td>
+        <td><img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" /></td>
+    </tr>
+    <tr>
+        <td>阿里云服务平台。</td>
+        <td><img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white" /></td>
+    </tr>
+    <tr>
+        <td>容器化平台。</td>
+        <td><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></td>
+    </tr>
+    <tr>
+        <td>高性能的HTTP和反向代理服务器。</td>
+        <td><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /></td>
+    </tr>
+    <tr>
+        <td>项目管理和构建工具。</td>
+        <td><img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" /></td>
+    </tr>
+    <tr>
+        <td>Java开发的集成开发环境。</td>
+        <td><img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" /></td>
+    </tr>
+    <tr>
+        <td>API管理工具。</td>
+        <td><img src="https://img.shields.io/badge/Apifox-FF7A59?style=for-the-badge&logo=apifox&logoColor=white" /></td>
+    </tr>
+    <tr>
+        <td>版本控制系统。</td>
+        <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></td>
+    </tr>
+    <tr>
+        <td>安全框架。</td>
+        <td><img src="https://img.shields.io/badge/Apache%20Shiro-000000?style=for-the-badge&logo=apache-shiro&logoColor=white" /></td>
+    </tr>
+    <tr>
+        <td>JSON Web Token，用于身份验证。</td>
+        <td><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" /></td>
+    </tr>
+    <tr>
+        <td>持续集成和持续交付工具。</td>
+        <td><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" /></td>
+    </tr>
+</table>
 
 ### 开发的项目(project)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 #### 业务项目
-| 项目名称         | 描述                     | 链接                     |
-|------------------|--------------------------|--------------------------|
-| 项目A            | 该项目用于处理业务需求。 | [查看项目](http://example.com/projectA) |
-| 项目B            | 该项目用于优化业务流程。 | [查看项目](http://example.com/projectB) |
-| 项目C            | 该项目是一个客户管理系统。 | [查看项目](http://example.com/projectC) |
+<table style="width: 100%;">
+    <tr>
+        <th>项目名称</th>
+        <th>描述</th>
+        <th>链接</th>
+    </tr>
+    <tr>
+        <td>项目A</td>
+        <td>该项目用于处理业务需求。</td>
+        <td><a href="http://example.com/projectA">查看项目</a></td>
+    </tr>
+    <tr>
+        <td>项目B</td>
+        <td>该项目用于优化业务流程。</td>
+        <td><a href="http://example.com/projectB">查看项目</a></td>
+    </tr>
+    <tr>
+        <td>项目C</td>
+        <td>该项目是一个客户管理系统。</td>
+        <td><a href="http://example.com/projectC">查看项目</a></td>
+    </tr>
+</table>
 
 #### 组件项目
-| 项目名称         | 描述                     | 链接                     |
-|------------------|--------------------------|--------------------------|
-| 项目D            | 该项目是一个可复用的UI组件。 | [查看项目](http://example.com/projectD) |
-| 项目E            | 该项目是一个表单处理组件。 | [查看项目](http://example.com/projectE) |
-| 项目F            | 该项目是一个图表展示组件。 | [查看项目](http://example.com/projectF) |
+<table style="width: 100%;">
+    <tr>
+        <th>项目名称</th>
+        <th>描述</th>
+        <th>链接</th>
+    </tr>
+    <tr>
+        <td>项目D</td>
+        <td>该项目是一个可复用的UI组件。</td>
+        <td><a href="http://example.com/projectD">查看项目</a></td>
+    </tr>
+    <tr>
+        <td>项目E</td>
+        <td>该项目是一个表单处理组件。</td>
+        <td><a href="http://example.com/projectE">查看项目</a></td>
+    </tr>
+    <tr>
+        <td>项目F</td>
+        <td>该项目是一个图表展示组件。</td>
+        <td><a href="http://example.com/projectF">查看项目</a></td>
+    </tr>
+</table>
 
 #### 轮子项目
-| 项目名称         | 描述                     | 链接                     |
-|------------------|--------------------------|--------------------------|
-| 项目G            | 该项目是一个基础库。     | [查看项目](http://example.com/projectG) |
-| 项目H            | 该项目是一个工具库。     | [查看项目](http://example.com/projectH) |
+<table style="width: 100%;">
+    <tr>
+        <th>项目名称</th>
+        <th>描述</th>
+        <th>链接</th>
+    </tr>
+    <tr>
+        <td>项目G</td>
+        <td>该项目是一个基础库。</td>
+        <td><a href="http://example.com/projectG">查看项目</a></td>
+    </tr>
+    <tr>
+        <td>项目H</td>
+        <td>该项目是一个工具库。</td>
+        <td><a href="http://example.com/projectH">查看项目</a></td>
+    </tr>
+</table>
 
 #### 工具项目
-| 项目名称         | 描述                     | 链接                     |
-|------------------|--------------------------|--------------------------|
-| 项目I            | 该项目是一个开发工具。   | [查看项目](http://example.com/projectI) |
-| 项目J            | 该项目是一个自动化脚本。 | [查看项目](http://example.com/projectJ) |
+<table style="width: 100%;">
+    <tr>
+        <th>项目名称</th>
+        <th>描述</th>
+        <th>链接</th>
+    </tr>
+    <tr>
+        <td>项目I</td>
+        <td>该项目是一个开发工具。</td>
+        <td><a href="http://example.com/projectI">查看项目</a></td>
+    </tr>
+    <tr>
+        <td>项目J</td>
+        <td>该项目是一个自动化脚本。</td>
+        <td><a href="http://example.com/projectJ">查看项目</a></td>
+    </tr>
+</table>
 
 ### 今年汇总(This year's summary)
 ---
