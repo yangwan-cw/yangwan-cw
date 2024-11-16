@@ -129,8 +129,8 @@
         <th>链接</th>
     </tr>
     <tr>
-        <td>项目A</td>
-        <td>该项目用于处理业务需求。</td>
+        <td>magic-broom</td>
+        <td>这是一个 Todo List 应用，旨在帮助用户管理日常任务。用户可以添加、删除和标记任务为完成，提供简单直观的界面，支持多种设备访问。</td>
         <td><a href="http://example.com/projectA">查看项目</a></td>
     </tr>
     <tr>
