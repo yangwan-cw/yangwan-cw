@@ -1,16 +1,67 @@
-## Hi there 👋
+<div align="center">
+  
+# 👋 你好，我是 Yangwan
 
-<!--
-**yangwan-cw/yangwan-cw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=欢迎来到我的 GitHub 主页;Welcome+to+my+GitHub+Profile;热爱编程+%7C+持续学习;Passionate+Coder+%7C+Lifelong+Learner" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 关于我 | About Me
+
+💻 目前位于深圳,已工作两年 
+
+🌱 正在学习中.....
+
+🎯 努力变好  
+
+
+---
+
+## 🛠️ 技术栈 | Tech Stack
+
+<div align="center">
+
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=007396)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
+
+</div>
+
+---
+
+## 个人博客
+
+[我的博客](www.baidu.com)
+
+---
+
+## 🔥 贡献热力图 | Contribution Graph
+
+<div align="center">
+  
+[![Yangwan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yangwan-cw&theme=tokyo-night)](https://github.com/yangwan-cw)
+
+</div>
+
+---
+
+## 📫 联系我 | Contact Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-yangwan--cw-181717?style=for-the-badge&logo=github)](https://github.com/yangwan-cw)
+[![Email](https://img.shields.io/badge/Email-联系我-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a2572213252@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 "代码改变世界，创新驱动未来"
+### 💡 "Code Changes the World, Innovation Drives the Future"
+
+![](https://komarev.com/ghpvc/?username=yangwan-cw&color=blueviolet&style=flat-square&label=访客数+|+Visitors)
+
+</div>
