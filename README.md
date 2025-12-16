@@ -3,10 +3,43 @@
   <img src="logo.svg" alt="Logo" width="120" height="120" />
   
   # 你好，我是 Yangwan
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=23C891&center=true&vCenter=true&width=500&lines=Backend+Developer+%7C+Java+%7C+持续学习中..." alt="Typing SVG" />
 
 </div>
+
+<table>
+<tr>
+<td width="55%" valign="top" align="left">
+
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Hello World!\n");
+    return 0;
+}
+```
+
+</td>
+<td width="45%" valign="middle" align="center">
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=23C891&center=true&vCenter=true&width=450&lines=Backend+Developer+%7C+Java+%7C+持续学习中..." alt="Typing SVG" />
+
+<br>
+
+![GitHub followers](https://img.shields.io/github/followers/yangwan-cw?style=flat-square&label=Followers&color=23C891)
+![GitHub stars](https://img.shields.io/github/stars/yangwan-cw?style=flat-square&label=Stars&color=23C891)
+
+<br>
+
+![GitHub repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/yangwan-cw&query=$.public_repos&style=flat-square&label=Repositories&color=23C891&logo=github)
+
+</div>
+
+</td>
+</tr>
+</table>
 
 
 ## 关于我 | About Me
@@ -64,6 +97,14 @@
 ![](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 </div>
+
+---
+
+## 项目 | Projects
+
+| 项目 | 技术栈 | 链接 |
+|:----|:------|:-----|
+| **LoadBalancer**<br>使用 C 语言实现的负载均衡器 | `C` `Lua` `Docker` | [![GitHub](https://img.shields.io/github/stars/yangwan-cw/loadBalancer?style=social&logo=github)](https://github.com/yangwan-cw/loadBalancer) |
 
 ---
 
