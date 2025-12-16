@@ -6,9 +6,9 @@
 
 </div>
 
-<table width="100%">
+<table style="width:100%">
 <tr>
-<td width="50%" valign="top" align="left">
+<td style="width:50%" valign="top" align="left">
 
 ```c
 #include <stdio.h>
@@ -20,7 +20,7 @@ int main() {
 ```
 
 </td>
-<td width="50%" valign="middle" align="center">
+<td style="width:50%" valign="middle" align="center">
 
 <div align="center">
 
