@@ -59,7 +59,7 @@ int main() {
 - 💻 常用工具：IntelliJ IDEA、VS Code、Git
 - ☕ 代码伴侣：咖啡 
 - 📚 阅读偏好：技术博客、男性交友网站(github)等
-- 🎮 放松方式：撸猫、写代码、看技术视频、运动、听歌、英雄联盟
+- 🎮 放松方式：撸猫、写代码、运动(篮球，游泳等)、听歌、英雄联盟
 
 我是在深圳工作的后端开发工程师，入行两年多，一直在和 Java、业务系统以及各种线上小事故打交道。  
 
@@ -135,6 +135,9 @@ int main() {
 [![Blog](https://img.shields.io/badge/个人博客-我的博客-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](http://111.228.6.56/)
 
 </div>
+
+## 飞书文档
+
 
 ---
 
