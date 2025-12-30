@@ -57,7 +57,7 @@ int main() {
 - 🎯 当前学习：C 语言、底层技术、Java 进阶等
 - 🐱 宠物：一只叫大福的独眼猫猫
 - 💻 常用工具：IntelliJ IDEA、VS Code、Git、claude、cursor
-- ☕ 代码伴侣：咖啡 
+- ☕ 代码伴侣：咖啡、飞书、音乐、语雀
 - 📚 阅读偏好：技术博客、男性交友网站(github)等
 - 🎮 放松方式：撸猫、写代码、运动(篮球，游泳等)、听歌、英雄联盟
 
@@ -70,7 +70,7 @@ int main() {
 在这条道路上经历过低谷，也见到一丝光芒。很幸运的是遇到了一群不错的家伙。有时候写代码更像是在和自己较劲：一边被 bug 折磨，一边又因为一个小小的优化开心半天。哈哈哈哈。  
 不算那种天赋型选手，只是还愿意多试一次、多查一页文档、多重构一遍的人。
 
-加油吧！！！
+未来不知道会不会一直走这条路，走好当下，及时行乐。
 
 
 ## 关于 logo
@@ -151,7 +151,18 @@ AI 是一把双刃剑特性，它能够帮助我们快速解决问题、学习�
 
 </div>
 
-## 飞书文档
+## 对外文档 | External Docs
+
+> ⏳ **待发布** - 内容正在整理中...
+
+<div align="center">
+
+![408](https://img.shields.io/badge/📚_408-知识库-9E9E9E?style=for-the-badge&logo=book&logoColor=white)
+
+![LeetCode](https://img.shields.io/badge/💻_LeetCode-刷题知识库-9E9E9E?style=for-the-badge&logo=leetcode&logoColor=white)
+
+</div>
+
 
 
 ---
