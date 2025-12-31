@@ -128,23 +128,38 @@ int main() {
 
 在编程上，我认为自己不是一个天赋型选手。但仍对自己的技术栈保持怀疑和探索，不会因为熟悉某个技术就停止学习新的东西。这样我的头脑不会随着年龄而老化。
 
-### 前端技术栈 | Frontend
+<table><tr><td valign="top" width="33%" align="center">
 
-<div align="left">
 
-![](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
+### 前端技术栈 | Frontend  
+<div align="center">  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 </div>
 
-### 后端技术栈 | Backend
+</td><td valign="top" width="33%" align="center">
 
-<div align="left">
 
-![](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
+### 后端技术栈 | Backend  
+<div align="center">  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 </div>
+
+</td><td valign="top" width="33%" align="center">
+
+
+
+### 工具 | Tool  
+<div align="center">  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+</div>
+
+</td></tr></table>
+
+<br/>
 
 
 ## 关于 AI
@@ -163,9 +178,22 @@ AI 是一把双刃剑，它能够帮助我们快速解决问题、学习新知�
 
 ## 项目 | Projects
 
-| 项目 | 技术栈 | 链接 |
-|:----|:------|:-----|
-| **LoadBalancer**<br>使用 C 语言实现的负载均衡器 | `C` `Lua` `Docker` | [![GitHub](https://img.shields.io/github/stars/yangwan-cw/loadBalancer?style=social&logo=github)](https://github.com/yangwan-cw/loadBalancer) |
+<div align="center">
+
+<table style="width:100%">
+<tr>
+<th align="left">项目</th>
+<th align="left">技术栈</th>
+<th align="left">链接</th>
+</tr>
+<tr>
+<td><strong>LoadBalancer</strong><br>使用 C 语言实现的负载均衡器</td>
+<td><code>C</code> <code>Lua</code> <code>Docker</code></td>
+<td>[![GitHub](https://img.shields.io/github/stars/yangwan-cw/loadBalancer?style=social&logo=github)](https://github.com/yangwan-cw/loadBalancer)</td>
+</tr>
+</table>
+
+</div>
 
 ## 个人博客 | Blog
 
@@ -173,7 +201,7 @@ AI 是一把双刃剑，它能够帮助我们快速解决问题、学习新知�
 
 不过，理想很丰富，现实很骨感。我又能坚持多久呢？
 
-<div align="left">
+<div align="center">
 
 [![Blog](https://img.shields.io/badge/个人博客-我的博客-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](http://111.228.6.56/)
 
@@ -183,9 +211,9 @@ AI 是一把双刃剑，它能够帮助我们快速解决问题、学习新知�
 
 > **待发布** - 内容正在整理中...
 
-<div align="left">
+<div align="center">
 
-![408](https://img.shields.io/badge/📚_408-知识库-9E9E9E?style=for-the-badge&logo=book&logoColor=white)
+![408](https://img.shields.io/badge/📚_408-知识库-9E9E9E?style=for-the-badge&logo=yuque&logoColor=white)
 
 ![LeetCode](https://img.shields.io/badge/💻_LeetCode-刷题知识库-9E9E9E?style=for-the-badge&logo=leetcode&logoColor=white)
 
@@ -203,7 +231,7 @@ AI 是一把双刃剑，它能够帮助我们快速解决问题、学习新知�
 
 ## 联系我 | Contact Me
 
-<div align="left">
+<div align="center">
 
 [![Email](https://img.shields.io/badge/Email-联系我-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a2572213252@gmail.com)
 

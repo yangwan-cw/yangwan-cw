@@ -128,23 +128,38 @@ I also hope that if you encounter stray animals, you can treat them kindly. **If
 
 In programming, I don't consider myself a naturally talented person. But I still maintain skepticism and exploration of my tech stack, and won't stop learning new things just because I'm familiar with a technology. This way, my mind won't age with time.
 
-### Frontend
+<table><tr><td valign="top" width="33%" align="center">
 
-<div align="left">
 
-![](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
+### Frontend  
+<div align="center">  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 </div>
 
-### Backend
+</td><td valign="top" width="33%" align="center">
 
-<div align="left">
 
-![](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
+### Backend  
+<div align="center">  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 </div>
+
+</td><td valign="top" width="33%" align="center">
+
+
+
+### Tool  
+<div align="center">  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+</div>
+
+</td></tr></table>
+
+<br/>
 
 
 ## About AI
@@ -164,9 +179,22 @@ Based on these understandings, I always maintain a conservative and cautious att
 
 ## Projects
 
-| Project | Tech Stack | Link |
-|:----|:------|:-----|
-| **LoadBalancer**<br>A load balancer implemented in C | `C` `Lua` `Docker` | [![GitHub](https://img.shields.io/github/stars/yangwan-cw/loadBalancer?style=social&logo=github)](https://github.com/yangwan-cw/loadBalancer) |
+<div align="center">
+
+<table style="width:100%">
+<tr>
+<th align="left">Project</th>
+<th align="left">Tech Stack</th>
+<th align="left">Link</th>
+</tr>
+<tr>
+<td><strong>LoadBalancer</strong><br>A load balancer implemented in C</td>
+<td><code>C</code> <code>Lua</code> <code>Docker</code></td>
+<td>[![GitHub](https://img.shields.io/github/stars/yangwan-cw/loadBalancer?style=social&logo=github)](https://github.com/yangwan-cw/loadBalancer)</td>
+</tr>
+</table>
+
+</div>
 
 ## Blog
 
@@ -174,7 +202,7 @@ The blog is a project branch I started in **2025**. Why maintain a blog? There's
 
 However, ideals are rich, but reality is harsh. How long can I persist?
 
-<div align="left">
+<div align="center">
 
 [![Blog](https://img.shields.io/badge/Personal_Blog-My_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](http://111.228.6.56/)
 
@@ -184,9 +212,9 @@ However, ideals are rich, but reality is harsh. How long can I persist?
 
 > **Coming Soon** - Content is being organized...
 
-<div align="left">
+<div align="center">
 
-![408](https://img.shields.io/badge/📚_408-Knowledge_Base-9E9E9E?style=for-the-badge&logo=book&logoColor=white)
+![408](https://img.shields.io/badge/📚_408-Knowledge_Base-9E9E9E?style=for-the-badge&logo=yuque&logoColor=white)
 
 ![LeetCode](https://img.shields.io/badge/💻_LeetCode-Problem_Solving_Base-9E9E9E?style=for-the-badge&logo=leetcode&logoColor=white)
 
@@ -204,7 +232,7 @@ However, ideals are rich, but reality is harsh. How long can I persist?
 
 ## Contact Me
 
-<div align="left">
+<div align="center">
 
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a2572213252@gmail.com)
 
