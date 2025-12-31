@@ -128,7 +128,9 @@ int main() {
 
 在编程上，我认为自己不是一个天赋型选手。但仍对自己的技术栈保持怀疑和探索，不会因为熟悉某个技术就停止学习新的东西。这样我的头脑不会随着年龄而老化。
 
-<table><tr><td valign="top" width="33%" align="center">
+<div align="center">
+
+<table style="width:100%"><tr><td valign="top" width="33%" align="center">
 
 
 
@@ -158,6 +160,8 @@ int main() {
 </div>
 
 </td></tr></table>
+
+</div>
 
 <br/>
 
@@ -189,7 +193,7 @@ AI 是一把双刃剑，它能够帮助我们快速解决问题、学习新知�
 <tr>
 <td><strong>LoadBalancer</strong><br>使用 C 语言实现的负载均衡器</td>
 <td><code>C</code> <code>Lua</code> <code>Docker</code></td>
-<td>[![GitHub](https://img.shields.io/github/stars/yangwan-cw/loadBalancer?style=social&logo=github)](https://github.com/yangwan-cw/loadBalancer)</td>
+<td><a href="https://github.com/yangwan-cw/loadBalancer">GitHub</a></td>
 </tr>
 </table>
 

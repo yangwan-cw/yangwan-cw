@@ -128,7 +128,9 @@ I also hope that if you encounter stray animals, you can treat them kindly. **If
 
 In programming, I don't consider myself a naturally talented person. But I still maintain skepticism and exploration of my tech stack, and won't stop learning new things just because I'm familiar with a technology. This way, my mind won't age with time.
 
-<table><tr><td valign="top" width="33%" align="center">
+<div align="center">
+
+<table style="width:100%"><tr><td valign="top" width="33%" align="center">
 
 
 
@@ -158,6 +160,8 @@ In programming, I don't consider myself a naturally talented person. But I still
 </div>
 
 </td></tr></table>
+
+</div>
 
 <br/>
 
@@ -190,7 +194,7 @@ Based on these understandings, I always maintain a conservative and cautious att
 <tr>
 <td><strong>LoadBalancer</strong><br>A load balancer implemented in C</td>
 <td><code>C</code> <code>Lua</code> <code>Docker</code></td>
-<td>[![GitHub](https://img.shields.io/github/stars/yangwan-cw/loadBalancer?style=social&logo=github)](https://github.com/yangwan-cw/loadBalancer)</td>
+<td><a href="https://github.com/yangwan-cw/loadBalancer">GitHub</a></td>
 </tr>
 </table>
 
