@@ -1,3 +1,9 @@
+<div align="right">
+
+[English](README_EN.md) | [中文](README.md)
+
+</div>
+
 <div align="center">
 
   <img src="logo.svg" alt="Logo" width="120" height="120" />
@@ -34,6 +40,7 @@ int main() {
 
 <br>
 
+
 ![GitHub followers](https://img.shields.io/github/followers/yangwan-cw?style=flat-square&label=Followers&color=23C891)
 ![GitHub stars](https://img.shields.io/github/stars/yangwan-cw?style=flat-square&label=Stars&color=23C891)
 
@@ -47,6 +54,12 @@ int main() {
 </tr>
 </table>
 
+<div align="center">
+
+
+![GitHub Immortality](https://github-immortality.vercel.app/api?username=yangwan-cw)
+
+</div>
 
 ## 关于我 | About Me
 
@@ -56,7 +69,7 @@ int main() {
 - ⏰ 经验：2+ 年
 - 🎯 当前学习：C 语言、底层技术、Java 进阶等
 - 🐱 宠物：一只叫大福的独眼猫猫
-- 💻 常用工具：IntelliJ IDEA、VS Code、Git、claude、cursor
+- 💻 常用工具：IntelliJ IDEA、VS Code、Git、Claude、Cursor
 - ☕ 代码伴侣：咖啡、飞书、音乐、语雀
 - 📚 阅读偏好：技术博客、男性交友网站(github)等
 - 🎮 放松方式：撸猫、写代码、运动(篮球，游泳等)、听歌、英雄联盟
@@ -145,8 +158,6 @@ AI 是一把双刃剑特性，它能够帮助我们快速解决问题、学习�
 
 基于这些认识，我对AI工具始终保持保守和警惕的心态。这不是排斥新技术,而是理性地看待它的位置——AI是工具，不是替代品。
 
----
-
 
 
 
@@ -155,8 +166,6 @@ AI 是一把双刃剑特性，它能够帮助我们快速解决问题、学习�
 | 项目 | 技术栈 | 链接 |
 |:----|:------|:-----|
 | **LoadBalancer**<br>使用 C 语言实现的负载均衡器 | `C` `Lua` `Docker` | [![GitHub](https://img.shields.io/github/stars/yangwan-cw/loadBalancer?style=social&logo=github)](https://github.com/yangwan-cw/loadBalancer) |
-
----
 
 ## 个人博客 | Blog
 
@@ -184,8 +193,6 @@ AI 是一把双刃剑特性，它能够帮助我们快速解决问题、学习�
 
 
 
----
-
 ## 贡献热力图 | Contribution Graph
 
 <div align="center">
@@ -194,8 +201,6 @@ AI 是一把双刃剑特性，它能够帮助我们快速解决问题、学习�
 
 </div>
 
----
-
 ## 联系我 | Contact Me
 
 <div align="center">
@@ -203,6 +208,4 @@ AI 是一把双刃剑特性，它能够帮助我们快速解决问题、学习�
 [![Email](https://img.shields.io/badge/Email-联系我-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a2572213252@gmail.com)
 
 </div>
-
----
 
