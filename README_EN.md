@@ -32,7 +32,7 @@ int main() {
 ```
 
 </td>
-<td style="width:50%" valign="middle" align="center">
+<td style="width:50%" valign="top" align="center">
 
 <div align="center">
 
@@ -57,7 +57,7 @@ int main() {
 <div align="center">
 
 
-![GitHub Immortality](https://github-immortality.vercel.app/api?username=yangwan-cw)
+<img src="https://github-immortality.vercel.app/api?username=yangwan-cw" alt="GitHub Immortality" width="100%" style="max-height: 250px;" />
 
 </div>
 
@@ -130,7 +130,7 @@ In programming, I don't consider myself a naturally talented person. But I still
 
 ### Frontend
 
-<div align="center">
+<div align="left">
 
 ![](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -139,7 +139,7 @@ In programming, I don't consider myself a naturally talented person. But I still
 
 ### Backend
 
-<div align="center">
+<div align="left">
 
 ![](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -174,7 +174,7 @@ The blog is a project branch I started in **2025**. Why maintain a blog? There's
 
 However, ideals are rich, but reality is harsh. How long can I persist?
 
-<div align="center">
+<div align="left">
 
 [![Blog](https://img.shields.io/badge/Personal_Blog-My_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](http://111.228.6.56/)
 
@@ -184,7 +184,7 @@ However, ideals are rich, but reality is harsh. How long can I persist?
 
 > **Coming Soon** - Content is being organized...
 
-<div align="center">
+<div align="left">
 
 ![408](https://img.shields.io/badge/📚_408-Knowledge_Base-9E9E9E?style=for-the-badge&logo=book&logoColor=white)
 
@@ -204,7 +204,7 @@ However, ideals are rich, but reality is harsh. How long can I persist?
 
 ## Contact Me
 
-<div align="center">
+<div align="left">
 
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a2572213252@gmail.com)
 

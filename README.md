@@ -32,7 +32,7 @@ int main() {
 ```
 
 </td>
-<td style="width:50%" valign="middle" align="center">
+<td style="width:50%" valign="top" align="center">
 
 <div align="center">
 
@@ -57,7 +57,7 @@ int main() {
 <div align="center">
 
 
-![GitHub Immortality](https://github-immortality.vercel.app/api?username=yangwan-cw)
+<img src="https://github-immortality.vercel.app/api?username=yangwan-cw" alt="GitHub Immortality" width="100%" style="max-height: 250px;" />
 
 </div>
 
@@ -130,7 +130,7 @@ int main() {
 
 ### 前端技术栈 | Frontend
 
-<div align="center">
+<div align="left">
 
 ![](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -139,7 +139,7 @@ int main() {
 
 ### 后端技术栈 | Backend
 
-<div align="center">
+<div align="left">
 
 ![](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -173,7 +173,7 @@ AI 是一把双刃剑特性，它能够帮助我们快速解决问题、学习�
 
 不过,理想很丰富，现实很骨感。我又能坚持多久呢？
 
-<div align="center">
+<div align="left">
 
 [![Blog](https://img.shields.io/badge/个人博客-我的博客-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](http://111.228.6.56/)
 
@@ -183,7 +183,7 @@ AI 是一把双刃剑特性，它能够帮助我们快速解决问题、学习�
 
 > **待发布** - 内容正在整理中...
 
-<div align="center">
+<div align="left">
 
 ![408](https://img.shields.io/badge/📚_408-知识库-9E9E9E?style=for-the-badge&logo=book&logoColor=white)
 
@@ -203,7 +203,7 @@ AI 是一把双刃剑特性，它能够帮助我们快速解决问题、学习�
 
 ## 联系我 | Contact Me
 
-<div align="center">
+<div align="left">
 
 [![Email](https://img.shields.io/badge/Email-联系我-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a2572213252@gmail.com)
 
