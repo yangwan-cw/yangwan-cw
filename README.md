@@ -157,6 +157,9 @@ int main() {
 <div align="center">  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://neovim.io/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" alt="Neovim" height="50" /></a>  
+ 
+
 </div>
 
 </td></tr></table>
@@ -193,7 +196,7 @@ AI 是一把双刃剑，它能够帮助我们快速解决问题、学习新知�
 <tr>
 <td><strong>LoadBalancer</strong><br>使用 C 语言实现的负载均衡器</td>
 <td><code>C</code> <code>Lua</code> <code>Docker</code></td>
-<td><a href="https://github.com/yangwan-cw/loadBalancer">GitHub</a></td>
+<td><a href="https://github.com/yangwan-cw/loadBalancer">LoadBalancer</a></td>
 </tr>
 </table>
 
