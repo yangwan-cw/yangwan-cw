@@ -244,3 +244,31 @@ AI 是一把双刃剑，它能够帮助我们快速解决问题、学习新知�
 
 </div>
 
+## 关注与社群 | Follow & Community
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 微信公众号
+
+分享技术、AI、职场思考等内容
+
+<img src="./wechat-public.png" alt="微信公众号二维码" width="220" style="max-width: 100%; height: auto;" />
+
+</td>
+<td align="center" width="50%">
+
+### 知识星球
+
+分享项目实战经验、学习路线和一些更长篇的思考
+
+<img src="./zsxq.png" alt="知识星球二维码" width="220" style="max-width: 100%; height: auto;" />
+
+</td>
+</tr>
+</table>
+
+</div>
