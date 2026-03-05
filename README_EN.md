@@ -74,7 +74,7 @@ int main() {
 - 📚 Reading Preferences: Tech Blogs, GitHub (the male social network), etc.
 - 🎮 Ways to Relax: Petting cats, coding, sports (basketball, swimming, etc.), listening to music, League of Legends
 
-I'm a backend developer working in Shenzhen, with over two years of experience dealing with Java, business systems, and various online incidents.
+I'm a backend developer working in Shenzhen, with over two years of experience focusing on Java-based business systems development and maintenance.
 
 The daily joy comes from organizing messy requirements into somewhat decent code and architecture. Recently, I've been working on C language and low-level related stuff, and slowly filling gaps in Java and infrastructure.
 
@@ -124,48 +124,6 @@ I also hope that if you encounter stray animals, you can treat them kindly. **If
 
 
 
-## Tech Stack
-
-In programming, I don't consider myself a naturally talented person. But I still maintain skepticism and exploration of my tech stack, and won't stop learning new things just because I'm familiar with a technology. This way, my mind won't age with time.
-
-<div align="center">
-
-<table style="width:100%"><tr><td valign="top" width="33%" align="center">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%" align="center">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%" align="center">
-
-
-
-### Tool  
-<div align="center">  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
-
-</td></tr></table>
-
-</div>
-
-<br/>
-
-
 ## About AI
 
 AI technology is profoundly changing the way programmers work. As a developer, I think it's necessary to organize my understanding and principles for using AI tools, maintain a clear awareness, embrace new technologies while avoiding the trap of over-dependence.
@@ -188,12 +146,10 @@ Based on these understandings, I always maintain a conservative and cautious att
 <table style="width:100%">
 <tr>
 <th align="left">Project</th>
-<th align="left">Tech Stack</th>
 <th align="left">Link</th>
 </tr>
 <tr>
 <td><strong>LoadBalancer</strong><br>A load balancer implemented in C</td>
-<td><code>C</code> <code>Lua</code> <code>Docker</code></td>
 <td><a href="https://github.com/yangwan-cw/loadBalancer">GitHub</a></td>
 </tr>
 </table>
