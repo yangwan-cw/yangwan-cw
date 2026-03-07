@@ -14,7 +14,7 @@
 <div align="center">
   
 ### Code Changes the World, Innovation Drives the Future
-### Code Changes the World, Innovation Drives the Future
+### 代码改变世界，创新驱动未来
 </div>
 
 
@@ -61,18 +61,19 @@ int main() {
 
 </div>
 
-## About Me
+## 关于我 | About Me
 
-#### Personal Info
-- 🏙️ Location: Shenzhen
-- 💼 Profession: Backend Developer
-- ⏰ Experience: 2+ years
-- 🎯 Currently Learning: C Language, Low-level Technology, Java Advanced, etc.
-- 🐱 Pet: A one-eyed cat named Dafu
-- 💻 Common Tools: IntelliJ IDEA, VS Code, Git, Claude, Cursor
-- ☕ Coding Companions: Coffee, Feishu, Music, Yuque
-- 📚 Reading Preferences: Tech Blogs, GitHub (the male social network), etc.
-- 🎮 Ways to Relax: Petting cats, coding, sports (basketball, swimming, etc.), listening to music, League of Legends
+#### 个人信息 | Personal Info
+- **Location:** Shenzhen
+- **Profession:** Backend Developer
+- **Experience:** 2+ years
+- **Currently Learning:** C Language, Low-level Technology, Java Advanced, etc.
+- **Pet:** A one-eyed cat named Dafu
+- **Common Tools:** IntelliJ IDEA, VS Code, Git, Claude, Cursor
+- **Coding Companions:** Coffee, Feishu, Music, Yuque
+- **Reading Preferences:** Tech Blogs, GitHub (the male social network), etc.
+- **Ways to Relax:** Petting cats, coding, sports (basketball, swimming, etc.), listening to music, League of Legends
+- **Resume:** [My Resume](https://laoyujianli.com/share/W8Xfza)
 
 I'm a backend developer working in Shenzhen, with over two years of experience focusing on Java-based business systems development and maintenance.
 
@@ -86,7 +87,84 @@ I'm not the talented type, just someone who's willing to try one more time, chec
 I don't know if I'll stay on this path forever, but I'll do my best in the present and enjoy life.
 
 
-## About Logo
+## 技术栈 | Tech Stack
+
+I don't consider myself a naturally gifted programmer. But I keep questioning and exploring my tech stack, and won't stop learning new things just because I'm familiar with something. That way my mind won't grow stale with age.
+
+<!--
+<div align="center">
+
+<table style="width:100%"><tr><td valign="top" width="33%" align="center">
+
+### 前端技术栈 | Frontend
+<div align="center">
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
+</div>
+
+</td><td valign="top" width="33%" align="center">
+
+### 后端技术栈 | Backend
+<div align="center">
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
+</div>
+
+</td><td valign="top" width="33%" align="center">
+
+### 工具 | Tool
+<div align="center">
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+<a href="https://neovim.io/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" alt="Neovim" height="50" /></a>
+</div>
+
+</td></tr></table>
+
+</div>
+-->
+
+## 项目 | Projects
+
+The Projects section showcases the practice projects I've participated in or led during work and study. These projects not only help with finding relevant opportunities, but also deepen my understanding of technology.
+
+## 个人博客 | Blog
+
+The blog is a project branch I started in **2025**. Why maintain a blog? There's not much philosophy behind it—I just want to record the pitfalls I've encountered and the things I've learned. On one hand, it's a note for myself so I don't have to look things up again when I encounter the same problems; on the other hand, if it happens to help someone passing by, that's even better.
+
+However, ideals are rich, but reality is harsh. How long can I persist?
+
+<div align="center">
+
+[![Blog](https://img.shields.io/badge/个人博客-我的博客-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](http://111.228.6.56/)
+
+</div>
+
+## 对外文档 | External Docs
+
+> **Coming Soon** - Content is being organized...
+
+<div align="center">
+
+![408](https://img.shields.io/badge/📚_408-知识库-9E9E9E?style=for-the-badge&logo=yuque&logoColor=white)
+
+![LeetCode](https://img.shields.io/badge/💻_LeetCode-刷题知识库-9E9E9E?style=for-the-badge&logo=leetcode&logoColor=white)
+
+![书籍人生](https://img.shields.io/badge/📖_书籍人生-读书与思考-9E9E9E?style=for-the-badge&logo=bookstack&logoColor=white)
+
+</div>
+
+## 关于 AI
+
+AI technology is profoundly changing the way programmers work. As a developer, I think it's necessary to organize my understanding and principles for using AI tools, maintain a clear awareness, embrace new technologies while avoiding the trap of over-dependence.
+
+
+AI is a double-edged sword. It can help us solve problems quickly, learn new knowledge, write boilerplate code, and debug errors. Claude Code and Cursor Agent have become part of my daily development, and they excel at handling repetitive work, rapid prototyping, code completion, and more.
+
+But AI is not perfect. Its biggest problem is that it can produce "hallucinations"—generating seemingly reasonable but actually incorrect information. This kind of error is often very subtle, especially in unfamiliar technical fields, making it easy to be misled. The deeper risk is that if we over-rely on AI, we may gradually lose the ability to think independently and learn deeply, ultimately affecting our technical growth.
+
+Based on these understandings, I always maintain a conservative and cautious attitude toward AI tools. This is not about rejecting new technology, but rather rationally viewing its position—AI is a tool, not a replacement.
+
+## 关于 logo
 
 Why use a kitten as the logo? Because I have a very cute one-eyed cat at home.
 
@@ -121,68 +199,7 @@ So this logo is also a tribute to Dafu. A strong, cute tabby cat.
 
 I also hope that if you encounter stray animals, you can treat them kindly. **If you don't love them, please don't hurt them**. Every life deserves respect.
 
-
-
-
-## About AI
-
-AI technology is profoundly changing the way programmers work. As a developer, I think it's necessary to organize my understanding and principles for using AI tools, maintain a clear awareness, embrace new technologies while avoiding the trap of over-dependence.
-
-
-AI is a double-edged sword. It can help us solve problems quickly, learn new knowledge, write boilerplate code, and debug errors. Claude Code and Cursor Agent have become part of my daily development, and they excel at handling repetitive work, rapid prototyping, code completion, and more.
-
-But AI is not perfect. Its biggest problem is that it can produce "hallucinations"—generating seemingly reasonable but actually incorrect information. This kind of error is often very subtle, especially in unfamiliar technical fields, making it easy to be misled. The deeper risk is that if we over-rely on AI, we may gradually lose the ability to think independently and learn deeply, ultimately affecting our technical growth.
-
-Based on these understandings, I always maintain a conservative and cautious attitude toward AI tools. This is not about rejecting new technology, but rather rationally viewing its position—AI is a tool, not a replacement.
-
-
-
-
-
-## Projects
-
-<div align="center">
-
-<table style="width:100%">
-<tr>
-<th align="left">Project</th>
-<th align="left">Link</th>
-</tr>
-<tr>
-<td><strong>LoadBalancer</strong><br>A load balancer implemented in C</td>
-<td><a href="https://github.com/yangwan-cw/loadBalancer">GitHub</a></td>
-</tr>
-</table>
-
-</div>
-
-## Blog
-
-The blog is a project branch I started in **2025**. Why maintain a blog? There's not much philosophy behind it—I just want to record the pitfalls I've encountered and the things I've learned. On one hand, it's a note for myself so I don't have to look things up again when I encounter the same problems; on the other hand, if it happens to help someone passing by, that's even better.
-
-However, ideals are rich, but reality is harsh. How long can I persist?
-
-<div align="center">
-
-[![Blog](https://img.shields.io/badge/Personal_Blog-My_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](http://111.228.6.56/)
-
-</div>
-
-## External Docs
-
-> **Coming Soon** - Content is being organized...
-
-<div align="center">
-
-![408](https://img.shields.io/badge/📚_408-Knowledge_Base-9E9E9E?style=for-the-badge&logo=yuque&logoColor=white)
-
-![LeetCode](https://img.shields.io/badge/💻_LeetCode-Problem_Solving_Base-9E9E9E?style=for-the-badge&logo=leetcode&logoColor=white)
-
-</div>
-
-
-
-## Contribution Graph
+## 贡献热力图 | Contribution Graph
 
 <div align="center">
   
@@ -190,11 +207,39 @@ However, ideals are rich, but reality is harsh. How long can I persist?
 
 </div>
 
-## Contact Me
+## 联系我 | Contact Me
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a2572213252@gmail.com)
+[![Email](https://img.shields.io/badge/Email-联系我-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a2572213252@gmail.com)
 
 </div>
 
+## 关注与社群 | Follow & Community
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 微信公众号
+
+分享技术、AI、职场思考等内容
+
+<img src="./wechat-public.png" alt="微信公众号二维码" width="220" style="max-width: 100%; height: auto;" />
+
+</td>
+<td align="center" width="50%">
+
+### 知识星球
+
+分享项目实战经验、学习路线和一些更长篇的思考
+
+<img src="./zsxq.png" alt="知识星球二维码" width="220" style="max-width: 100%; height: auto;" />
+
+</td>
+</tr>
+</table>
+
+</div>
